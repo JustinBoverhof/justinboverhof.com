@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "about"
+title: "A bit about myself:"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# A bit about myself:
+### Undergradute at the Universty of Michigan:
+I am in my 3rd year of undergrad studying robotics engineering.
