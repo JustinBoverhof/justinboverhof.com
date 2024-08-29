@@ -12,7 +12,7 @@ title                    : "Justin Boverhof"
 title_separator          : "-"
 name                     : &name "Justin Boverhof"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://justinboverhof.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JustinBoverhof/JustinBoverhof.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Justin Boverhof"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Ann Arbor MI"
   employer         : "University of Michigan"
