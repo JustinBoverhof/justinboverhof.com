@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Justin Boverhof"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Roboticist in training"
   location         : "Ann Arbor MI"
   employer         : "University of Michigan"
   uri              : # URL
@@ -204,7 +204,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
@@ -250,7 +250,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: true
   # _portfolio
   - scope:
