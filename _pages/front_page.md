@@ -10,14 +10,12 @@ redirect_from:
 ### Undergraduate at the University of Michigan:
 I am in my 3rd year of undergrad studying robotics engineering.
 
-##### Projects
-For info on my past and current projects check out:
-<p><a href="/projects/">My Projects Page</a></p>
+#### Projects
+For info on my past and current projects check out: <p><a href="/projects/">My Projects Page</a></p>
 
-##### RUSC
+#### RUSC
 As a founding member and current Prof. Development chair of RUSC (The Robotics Undergraduate Student Council), I work with the robotics department to promote professional development opportunities for robotics students as well as promote RUSC's greater goals of representing the undergraduate population in the department and encouraging outreach in the wider robotics community
 
-For more info on RUSC see: 
-<p><a href="https://robotics.umich.edu/academics/current-students/robotics-undergraduate-student-council/">The RUSC Website</a></p>
+For more info on RUSC see: <p><a href="https://robotics.umich.edu/academics/current-students/robotics-undergraduate-student-council/">The RUSC Website</a></p>
 
-##### WORK
+#### WORK
