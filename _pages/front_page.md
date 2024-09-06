@@ -19,3 +19,4 @@ As a founding member and current Prof. Development chair of RUSC (The Robotics U
 For more info on RUSC see: <a href="https://robotics.umich.edu/academics/current-students/robotics-undergraduate-student-council/">The RUSC Website</a>
 
 ### WORK
+I work as an instructional aid and tour guide for the department (more info coming soon)
