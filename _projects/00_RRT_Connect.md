@@ -19,7 +19,7 @@ src="https://www.youtube.com/embed/3O8E3zix6I4?autoplay=1&mute=1">
 A video of a robot moving around to hit setpoints
 </iframe>
 
-<!-- [![A video of a robot moving around to hit setpoints](https://img.youtube.com/vi/3O8E3zix6I4/maxresdefault.jpg)](https://www.youtube.com/watch?v=3O8E3zix6I4) -->
+
 
 ### Further Examples
 
