@@ -1,6 +1,6 @@
 ---
-title: "Inverse Kinematics"
-permalink: /projects/inverse_kinematics
+title: "RRT Connect"
+permalink: /projects/rrt_connect
 excerpt: "An Ik implementation using a URDF file <br/><img src='/images/fetch_ik_landscape.png'>"
 collection: projects
 ---
