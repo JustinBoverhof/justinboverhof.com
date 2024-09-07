@@ -1,7 +1,7 @@
 ---
 title: "RRT Connect"
 permalink: /projects/rrt_connect
-excerpt: "An Nth Dimensional implementation of the RRT-Connect motion planning algorithm<br/><img src='/images/2D-RRT-Connect.png'>"
+excerpt: "An Nth Dimensional implementation of the RRT-Connect motion planning algorithm <br/><img src='/images/2D-RRT-Connect.png'>"
 collection: projects
 ---
 
