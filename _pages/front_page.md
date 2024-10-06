@@ -23,4 +23,4 @@ I work as an instructional aid and tour guide for the robotics department
 
 If you would like to see a demo of a project from the class check out <a href="/projects/rob_102">The Final Project</a>
 
-For info on the class I work on: <a href="hellorob.org">hellorob.org</a>
+For info on the class I work on: <a href="https://hellorob.org">hellorob.org</a>
