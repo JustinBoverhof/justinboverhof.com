@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Undergraduate at the University of Michigan:
-I am in my 3rd year of undergrad studying robotics engineering.
+I am in my 3rd year of undergrad studying Robotics Engineering.
 
 ### Projects
 For info on my past and current projects check out: <a href="/projects/">My Projects Page</a>
