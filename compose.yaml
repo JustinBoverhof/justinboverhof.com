@@ -3,7 +3,11 @@ services:
     build: .
     container_name: jekyll_dev
     ports:
-      - "4000:4000"
+      - "3001:3001"
+      - "3000:3000"
     volumes:
       - .:/srv/jekyll
-    command: jekyll serve --host 0.0.0.0 --no-watch
+    command: >
+      sh -c "jekyll build --config _config.yml,_config.dev.yml --watch &
+         sleep 20 && echo "serving" &&
+         browser-sync start --server _site --port 3000 --files '_site/**/*' --no-open"

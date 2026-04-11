@@ -1,13 +1,13 @@
 ---
-title: "RRT Connect (Coming Soon)"
-permalink: /projects/rrt_connect
-excerpt: "More info to be added soon <br/><img src='/images/fetch_ik_landscape.png'>"
+title: "NASA Big Idea Challenge 2024"
+permalink: /projects/nasa_bic/
+excerpt: "More info to be added soon <br> ![nasa_bic](/images/nasa_bic.png){: width=\"50%\"}"
 collection: projects
 published: false
 ---
 
 
-<img src='/images/fetch_ik_landscape.png'>
+![nasa_bic](/images/nasa_bic.png){: width="50%"}
 
 ### Preface
 
