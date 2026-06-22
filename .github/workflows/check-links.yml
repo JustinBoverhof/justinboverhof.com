@@ -1,0 +1,32 @@
+name: Check Links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 8 * * 6'  # also runs weekly to catch link rot
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check links with HTMLProofer
+        run: |
+          bundle exec htmlproofer ./_site \
+            --allow-hash-href \
+            --ignore-status-codes "0,999" \
+            --typhoeus '{"followlocation": true, "connecttimeout": 10, "timeout": 30}'
