@@ -1,0 +1,9 @@
+a.external-link::after {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 900;
+  font-style: normal;
+  margin-left: 0.25em;
+  font-size: 0.55em;
+
+  content: '\f35d';  // fa-arrow-up-right-from-square  (classic external link)
+}
