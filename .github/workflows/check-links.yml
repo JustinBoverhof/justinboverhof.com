@@ -29,5 +29,5 @@ jobs:
         run: |
           bundle exec htmlproofer ./_site \
             --allow-hash-href \
-            --ignore-status-codes "0,999" \
+            --ignore-status-codes 0,999 \
             --typhoeus '{"followlocation": true, "connecttimeout": 10, "timeout": 30}'
