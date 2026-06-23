@@ -30,4 +30,5 @@ jobs:
           bundle exec htmlproofer ./_site \
             --allow-hash-href \
             --ignore-status-codes 0,999 \
+            --ignore-urls "https://www.linkedin.com/in/justin-boverhof" \
             --typhoeus '{"followlocation": true, "connecttimeout": 10, "timeout": 30}'
