@@ -1,6 +1,6 @@
 ---
-title: "SMART Lab Test Bed"
-permalink: /projects/smart/
+title: "Soccer Bot Capstone"
+permalink: /projects/capstone/
 excerpt: "More info to be added soon"
 collection: projects
 published: true
@@ -12,5 +12,3 @@ published: true
 ### In Action
 
 ### Further Examples
-
-
