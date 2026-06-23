@@ -18,6 +18,6 @@ A video of a robot moving through a maize identifying numbers as it goes
 </iframe>
 
 ## Want to know more?
-Check out [hellorob.org](http://hellorob.org)
+Check out [hellorob.org](https://hellorob.org)
 
 
