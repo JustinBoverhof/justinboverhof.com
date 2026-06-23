@@ -1,12 +1,12 @@
 name: Check Links
 
-# on:
-#   push:
-#     branches: [main]
-#   pull_request:
-#     branches: [main]
-#   schedule:
-#     - cron: '0 8 * * 6'  # also runs weekly to catch link rot
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '0 8 * * 6'  # also runs weekly to catch link rot
 
 jobs:
   check-links:
