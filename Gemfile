@@ -17,7 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-sass-converter"
 gem "jekyll"
 
-gem 'html-proofer'
+gem 'html-proofer', '~> 4.0'
 
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
