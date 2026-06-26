@@ -7,10 +7,10 @@ published: true
 ---
 
 
-![nasa_bic](/images/nasa_bic.png){: width="50%"}
+![nasa_bic](/images/nasa_bic.png){: width="30%"}
 
 ## Background
-The NASA Big Idea Challenge or NASA BIC was (Unfortunately it was postponed indefinitely after 2024 due to budget cuts) a yearly competition hosted by NASA where they would invite students to research explore a novel type of space technology. Student teams start by submitting a proposal and from there a group of finalist teams are selected and given funding to design a prototype. 
+The NASA Big Idea Challenge or NASA BIC was a yearly competition hosted by NASA where they would invite students to research explore a novel type of space technology.(Unfortunately it was postponed indefinitely after 2024 due to budget cuts) Student teams start by submitting a proposal and from there a group of finalist teams are selected and given funding to design a prototype. 
 
 The theme of BIC 2024 was lunar inflatables and a group of students from U of M proposed a two wheeled cargo carrying robot that could be stored compactly then inflate to size called "CARGO-BEEP". They secured funding as a finalist and began work in early 2024. It should be noted I at this point had not joined the project.
 
@@ -42,7 +42,7 @@ Because this new system's default state was off it greatly increased safety when
 ### The Results
 We were able to assemble and run some tests on the final prototype after months of work with reduced labor. Unforutently the proprietary motor drivers that bridged communication between the motors and the orin failed at this point and with funding running low and the team ready to split for the summer we had to call it there.
 
-Pictures of the assembled final prototype can be found [below](#final-prototype)
+Pictures of the assembled final prototype can be found [below](#final-prototype) as well as some brief clips of us testing the electronics [here](#the-integrated-prototype)
 
 ## Videos
 ### Controls Prototype In Action
@@ -61,6 +61,20 @@ src="https://www.youtube.com/embed/nVFpHtLjD0o?autoplay=0&mute=1">
 A video of Cargo Beep being tested on the mars yard rocks
 </iframe>
 
+### Integrated Prototype
+<iframe height="120"
+src="https://www.youtube.com/embed/Ul2TxS6-vrA?autoplay=0&mute=1">
+A video of testing the integrated electronics.
+</iframe>
+
+<iframe height="120"
+src="https://www.youtube.com/embed/qJVIhNFjKgA?autoplay=0&mute=1">
+A video of the integrated prototype spinning the center body.
+</iframe>
+
+
 ## Pictures
 ### Final Prototype
-Pictures To be Added Soon
+![nasa_electronics_closeup](/images/nasa-electronics-closeup.jpg)
+![center_body_assembeled](/images/nasa-center-body-assembeled.jpg)
+![center_body_no_wheels](/images/nasa-centerbody-no-wheels.jpg)

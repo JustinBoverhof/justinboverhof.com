@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # BSE Robotics from the University of Michigan:
-I have just finished my undergrad studying Robotics Engineering and plan to pursue full time employment before coming back for graduate education in a few years time.
+I have just finished my undergrad studying Robotics Engineering and plan to pursue full time employment before possibly coming back for graduate education in a few years time.
 
 ## Research
 Over the past year I had the pleasure of working in the [Barton Research Group](https://brg.engin.umich.edu/) where I worked in the groups smart manufacturing test bed to integrate a [Spot](https://bostondynamics.com/products/spot/) robot into the test bed. You can find my write up of the project [here](projects/smart/). 
