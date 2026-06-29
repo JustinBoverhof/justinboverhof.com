@@ -47,34 +47,39 @@ Pictures of the assembled final prototype can be found [below](#final-prototype)
 ## Videos
 ### Controls Prototype In Action
 <iframe height="120"
+allow="fullscreen"
 src="https://www.youtube.com/embed/JdvzpTrx-OQ?autoplay=0&mute=1">
 A video of Cargo Beep being tested on the UMICH wave field
 </iframe>
 
 <iframe height="120"
+allow="fullscreen"
 src="https://www.youtube.com/embed/S4ACy7DnndQ?autoplay=0&mute=1">
 A video of Cargo Beep driving down the side walk.
 </iframe>
 
 <iframe height="120"
+allow="fullscreen"
 src="https://www.youtube.com/embed/nVFpHtLjD0o?autoplay=0&mute=1">
 A video of Cargo Beep being tested on the mars yard rocks
 </iframe>
 
 ### Integrated Prototype
 <iframe height="120"
+allow="fullscreen"
 src="https://www.youtube.com/embed/Ul2TxS6-vrA?autoplay=0&mute=1">
 A video of testing the integrated electronics.
 </iframe>
 
 <iframe height="120"
+allow="fullscreen"
 src="https://www.youtube.com/embed/qJVIhNFjKgA?autoplay=0&mute=1">
 A video of the integrated prototype spinning the center body.
 </iframe>
 
 
 ## Pictures
-### Final Prototype
+### Integrated Prototype
 ![nasa_electronics_closeup](/images/nasa-electronics-closeup.jpg)
 ![center_body_assembeled](/images/nasa-center-body-assembeled.jpg)
 ![center_body_no_wheels](/images/nasa-centerbody-no-wheels.jpg)

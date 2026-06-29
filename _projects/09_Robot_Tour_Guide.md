@@ -1,7 +1,7 @@
 ---
 title: "ROB 102 Final Project"
 permalink: /projects/rob_102/
-excerpt: "A demo of the final project for the class I help teach ![thumbnail](https://img.youtube.com/vi/wx37x2zcUDE/maxresdefault.jpg){: width=\"68%\"}"
+excerpt: "A demo of the final project for the class I helped teach ![thumbnail](https://img.youtube.com/vi/wx37x2zcUDE/maxresdefault.jpg){: width=\"68%\"}"
 collection: projects
 ---
 
@@ -13,6 +13,7 @@ This is the final project from the class ROB 102 which I took in the fall of my 
 
 ## In Action
 <iframe width="420" height="315"
+allow="fullscreen"
 src="https://www.youtube.com/embed/wx37x2zcUDE?autoplay=1&mute=1">
 A video of a robot moving through a maize identifying numbers as it goes
 </iframe>

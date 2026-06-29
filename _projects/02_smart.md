@@ -27,6 +27,7 @@ During my time in the lab I created three custom packages for Spot on top of the
 ## Lab Demo Video
 Below is compilation of our lab demo showing off the concept of spot helping with deliveries.
 <iframe
+allow="fullscreen"
 src="https://www.youtube.com/embed/qCN_qThoB9E?autoplay=0&mute=1">
 A compilation of clips from the lab demo.
 </iframe>

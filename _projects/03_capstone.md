@@ -16,11 +16,13 @@ Due to the constraints of a single semester class we decide to focus on implemen
 As you will see in the videos Humanoid robots playing soccer is a complex task and this is very much a work in progress for future groups to build off from.
 
 <iframe
+allow="fullscreen"
 src="https://www.youtube.com/embed/Qn0rqGWDENo?autoplay=0&mute=1">
 Goal with one working robot.
 </iframe>
 
 <iframe
+allow="fullscreen"
 src="https://www.youtube.com/embed/L9o7bnJWI5Y?autoplay=0&mute=1">
 Goal with fumble at the end.
 </iframe>
