@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+toc: true
 ---
 
 # BSE Robotics from the University of Michigan:
