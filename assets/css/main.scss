@@ -41,3 +41,21 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+nav.toc {
+  width: 220px;
+}
+
+.toc__menu {
+  li.toc__h2 { 
+    padding-left: 0; 
+    font-weight: bold;
+  }
+  li.toc__h3 { 
+    padding-left: 1em;
+    font-size: 0.9em;
+  }
+  li.toc__h4 { 
+    padding-left: 2em;
+    font-size: 0.85em;
+  }
+}

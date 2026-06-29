@@ -60,7 +60,8 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    position: relative;
+    position: sticky;
+    top: 80px;
     float: right;
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
