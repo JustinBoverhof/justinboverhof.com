@@ -1,7 +1,21 @@
 <aside class="sidebar__right">
-<nav class="toc" markdown="1">
-<header><h4 class="nav__title"><i class="fa fa-{{ include.icon | default: 'file-text' }}"></i> {{ include.title | default: site.data.ui-text[site.locale].toc_label }}</h4></header>
-*  Auto generated table of contents
-{:toc .toc__menu}
+<nav class="toc">
+<header><h4 class="nav__title"><i class="fa fa-{{ include.icon | default: 'file-text' }}"></i> {{ include.title | default: 'On This Page' }}</h4></header>
+{% assign nodes = include.html | split: '<h' %}
+{% assign nodes = nodes | shift %}
+<ul class="toc__menu">
+{% for node in nodes %}
+  {% assign headerLevel = node | replace: '"', '' | slice: 0, 1 | times: 1 %}
+  {% assign headerContent = node | split: '</h' | first | split: '>' | shift | join: '>' %}
+  {% assign headerId = node | split: ' id="' | last | split: '"' | first %}
+  {% if headerLevel == 2 %}
+  <li class="toc__h2"><a href="#{{ headerId }}">{{ headerContent | strip_html }}</a></li>
+  {% elsif headerLevel == 3 %}
+  <li class="toc__h3"><a href="#{{ headerId }}">{{ headerContent | strip_html }}</a></li>
+  {% elsif headerLevel == 4 %}
+  <li class="toc__h4"><a href="#{{ headerId }}">{{ headerContent | strip_html }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
 </nav>
 </aside>
