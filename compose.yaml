@@ -8,9 +8,10 @@ services:
       - "35729:35729"
     volumes:
       - .:/srv/jekyll
-    command: >
-      sh -c "bundle install &&
-             jekyll build --config _config.yml,_config.dev.yml --watch &
-             sleep 20 &&
-             browser-sync start --server _site --port 3000 --files '_site/**/*' --no-open"
+    # command: >
+    #   sh -c "bundle install &&
+    #          jekyll build --config _config.yml,_config.dev.yml --watch &
+    #          sleep 20 &&
+    #          browser-sync start --server _site --port 3000 --files '_site/**/*' --no-open"
+    entrypoint: ["/srv/jekyll/entrypoint.sh"]
 
