@@ -261,7 +261,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
+      toc: true
       comment: true
   # _talks
   - scope:
