@@ -1,7 +1,7 @@
 ---
 title: "ROB 102 Final Project"
 permalink: /projects/rob_102/
-excerpt: "A demo of the final project for the class I helped teach ![thumbnail](https://img.youtube.com/vi/wx37x2zcUDE/maxresdefault.jpg){: width=\"68%\"}"
+excerpt: "A demo of the final project for the class I helped teach <br> ![thumbnail](https://img.youtube.com/vi/wx37x2zcUDE/maxresdefault.jpg){: width=\"68%\"}"
 collection: projects
 ---
 
